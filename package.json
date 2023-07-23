@@ -1,0 +1,18 @@
+{
+  "name": "borangokden-v14-level-system-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "borangokden level sistemi (v14)",
+  "main": "borangokden.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BoranGokden",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "ceki.db": "^0.0.6",
+    "discord.js": "^14.0.1",
+    "moment": "^2.29.4"
+  }
+}
